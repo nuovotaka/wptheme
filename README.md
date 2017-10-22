@@ -1,3 +1,5 @@
 Dotinstall  wordpress テーマ
 
 学習記録
+
+dotinstall フォルダ以下をwordpressのthemes以下にコピペすればdotinstallのテーマが使えるようになります。
